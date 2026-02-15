@@ -31,5 +31,5 @@ def sumar(a,b){
 }
 ```
  
-# Goku
+# Deadpool
 ![DeadPool MR](https://cdn2.steamgriddb.com/icon/0b8d5a351c901322d4b6826031f7b386/32/256x256.png)
